@@ -1,1 +1,1 @@
-# cs50_pset_solutions
+This repository contains solutions to some of the problem sets that I worked on in August, September, and October of 2020.
